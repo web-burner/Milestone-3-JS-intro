@@ -20,8 +20,14 @@
 // const intNumber = parseFloat(price);
 // console.log(intNumber)
 
-const num1 = 0.1;
-const num2 = 0.2;
-const total = num1 + num2
-console.log(total.toFixed(2))
+// const num1 = 0.1;
+// const num2 = 0.2;
+// const total = num1 + num2
+// console.log(total.toFixed(2))
+
+// let num1 = 10;
+// num1 **= 5;
+// console.log(num1)
+
+// module-14//
 

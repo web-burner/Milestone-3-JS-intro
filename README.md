@@ -88,8 +88,39 @@ module-13.9 <!-- Arithmetic Operators-->
 2. subtraction (-) :
 3. multiplication (*) : 
 4. division (/):
-5. modulus(%): 
+5. modulus(%):
+6. exponentiation (**):
 
 
 module-13.10 <!-- mathematical Operation shorthand-->
+
+addition shorthand: 
+
+let num1 = 10;
+num1 += 5;
+console.log(num1)
+
+subtraction shorthand : 
+
+let num1 = 10;
+num1 -= 5;
+console.log(num1)
+
+multiplication shorthand:
+
+let num1 = 10;
+num1 *= 5;
+console.log(num1)
+
+divide shorthand : 
+
+let num1 = 10;
+num1 /= 5;
+console.log(num1)
+
+modulus shorthand: 
+
+let num1 = 10;
+num1 %= 5;
+console.log(num1)
 
