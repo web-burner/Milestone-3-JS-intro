@@ -35,3 +35,41 @@ module-15.4 (for loop)
     for(let i = 0; i<fruits.length; i++){
     console.log(fruits[i])
     }
+
+    // let i = 30;
+// while(i>20){
+//     if(i <25){
+//         break
+//     }
+//     console.log(i)
+//     i--;
+// }
+
+<!-- break -->
+
+let n = 50;
+while(n>45){
+    if(n<=47){
+        break;
+    }
+    console.log(n);
+    n--;
+}
+
+<!-- continue -->
+let n = 1;
+while (n <= 20) {
+  n++;
+  if (n % 2 === 0) {
+    continue;
+  }
+  console.log(n);
+}
+
+
+<!-- do while   -->
+let i = 2;
+do{
+    console.log(i)
+    i++;
+}while(i<10)
