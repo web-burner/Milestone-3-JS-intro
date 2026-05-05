@@ -35,11 +35,15 @@
 35. break 
 36. continue
 37. string 
-38. toUpperCase
-39. toLowerCase
-40. trim
-41. slice
-42. concat
-43. includes 
-44. reverse a string
-45. white space
+38. length
+39. index
+40. toUpperCase
+41. toLowerCase
+42. trim
+43. slice
+44. concat
+45. includes 
+46. reverse a string
+47. white space
+48. concat 
+49. 
