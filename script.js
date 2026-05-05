@@ -315,7 +315,14 @@ Create a JavaScript program that calculates the Body Mass Index (BMI) and assign
 //     console.log(person[key])
 // }
 
-// conceptual class 
+// conceptual class
 // const a = 5;
 // const b = 3;
 // console.log(a+b)
+
+// function hello(){
+//     console.log('Hello JavaScript')
+// }
+// hello()
+
+
